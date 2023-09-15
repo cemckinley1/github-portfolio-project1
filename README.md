@@ -1,5 +1,15 @@
 # Project: Investigate a Relational Database
 
+## Table of Contents 
+
+- [Project Overview](project-overview)
+- [Data Source](data-source)
+- [Tools](tools)
+- [Qestion 1](question-1)
+- [Question 2](question-2)
+- [Question 3](question-3)
+- [Question 4](question-4)
+
 ## Project Overview
 In this project, I queried a database called the Sakila DVD Rental database. The Sakila Database holds information about a company that rents movie DVDs. For this project, I queried the database to gain an understanding of the customer base, such as what the patterns in movie watching are across different customer groups, how they compare on payment earnings, and how the stores compare in their performance.
 
@@ -9,7 +19,7 @@ In this project, I queried a database called the Sakila DVD Rental database. The
 ![ERD](/assets/img/dvd-rental-erd-2.png)
 
 ### Tools
-- PostgreSQL
+- SQL
 - Excel
 - Power BI
 
@@ -158,5 +168,10 @@ GROUP BY 1, 2
 ORDER BY 1;
 ```
 
-### Visualization 4
+### Visualization 4a
 
+![](/assets/img/viz5.jpg)
+
+### Visualization 4b
+
+![](/assets/img/viz6.jpg)
