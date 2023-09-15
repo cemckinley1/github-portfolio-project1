@@ -42,4 +42,6 @@ FROM(SELECT f.title AS film_title,
 GROUP BY 1, 2
 ORDER BY 2, 1;
 ```
+![](/assets/img/Screenshot 2023-09-15 111155.jpg)
 
+Question 2
